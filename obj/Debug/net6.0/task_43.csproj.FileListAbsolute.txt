@@ -1,0 +1,15 @@
+/Users/pavelpashkov/task_43/bin/Debug/net6.0/task_43
+/Users/pavelpashkov/task_43/bin/Debug/net6.0/task_43.deps.json
+/Users/pavelpashkov/task_43/bin/Debug/net6.0/task_43.runtimeconfig.json
+/Users/pavelpashkov/task_43/bin/Debug/net6.0/task_43.dll
+/Users/pavelpashkov/task_43/bin/Debug/net6.0/task_43.pdb
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.csproj.AssemblyReference.cache
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.AssemblyInfoInputs.cache
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.AssemblyInfo.cs
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.dll
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/refint/task_43.dll
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.pdb
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/task_43.genruntimeconfig.cache
+/Users/pavelpashkov/task_43/obj/Debug/net6.0/ref/task_43.dll
